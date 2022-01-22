@@ -1,5 +1,8 @@
 ### Hey ! 👋 I'm Susavan!
 
+<a href="mailto:susavanpal07@gmail.com">
+  <img align="left" width="26px" src="https://github.com/susavan07/susavan07/blob/main/facebook.png" />
+</a>
 <!--
 **susavan07/susavan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
